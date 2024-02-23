@@ -87,7 +87,7 @@ graph TD;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://github.com/jrjhon06" /></p> 
+<p align="center"><img align="center" src="[https://github.com/jrjhon06](https://profile-counter.glitch.me/{👽}/count.svg)" /></p> 
 <br>
 </div>
 
