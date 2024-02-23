@@ -87,6 +87,11 @@ graph TD;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="PitufoDev51" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
 <br>
 </div>
+
+![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
