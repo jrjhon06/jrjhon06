@@ -16,7 +16,7 @@
 <a href="https://www.tiktok.com/@johnhuh06?_t=8jKzjK1LECz&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 
 
-[![www.linkedin.com/in/jhon-huarsocca-250595214](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
+[![https://www.linkedin.com/feed/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
 [![www.jrhuarsocca@gamil.com](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
 </div>
 
