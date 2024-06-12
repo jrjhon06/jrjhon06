@@ -54,8 +54,7 @@ graph TD;
 <p/>
 
 
-
- ```{
+{
   "tipo": "Colección de características",
   "características": [
     {
@@ -80,8 +79,6 @@ graph TD;
   ]
 }
 
-
- ```
 
 
 
