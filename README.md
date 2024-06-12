@@ -55,31 +55,32 @@ graph TD;
 
 
 
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
+ ```{
+  "tipo": "Colección de características",
+  "características": [
     {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0,
+      "tipo": "Característica",
+      "identificación": 1,
+      "propiedades": {
+        "identificación": 0
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
+      "geometría": {
+        "tipo": "Polígono",
+        "coordenadas": [
           [
-              [-78,-11.9],
-              [-76.9,-11.9],
-              [-76.9,-11.9],
-              [-78,-11.9],
-              [-78,-11.9]
+            [-78, -11.9],
+            [-76.9, -11.9],
+            [-76.9, -11.9],
+            [-78, -11.9],
+            [-78, -11.9]
           ]
         ]
       }
-    
+    }
   ]
 }
+
+
  ```
 
 
