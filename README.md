@@ -1,4 +1,4 @@
-de# bienvenido
+!bienvenido!...😊
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -53,31 +53,6 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" title="NestJs">   
 <p/>
 
-
-{
-  "tipo": "Colección de características",
-  "características": [
-    {
-      "tipo": "Característica",
-      "identificación": 1,
-      "propiedades": {
-        "identificación": 0
-      },
-      "geometría": {
-        "tipo": "Polígono",
-        "coordenadas": [
-          [
-            [-78, -11.9],
-            [-76.9, -11.9],
-            [-76.9, -11.9],
-            [-78, -11.9],
-            [-78, -11.9]
-          ]
-        ]
-      }
-    }
-  ]
-}
 
 
 
