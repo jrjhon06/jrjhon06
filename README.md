@@ -16,7 +16,7 @@
 
 
 [![https://www.linkedin.com/feed/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[https://mail.google.com/mail/u/0/#inbox](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
+[[https://mail.google.com/mail/u/0/#inbox](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
 </div>
 
 
