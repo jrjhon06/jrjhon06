@@ -12,7 +12,7 @@
 <div align="center">
 <a href="https://www.facebook.com/jhon.huarsocca.7" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 <a href="https://www.youtube.com/channel/UChdR0NmOHnB_OCnWOKq0vGg" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.tiktok.com/@johnhuh06?_t=8jKzjK1LECz&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
+<a href="https://www.tiktok.com/@dev_huh?_t=8pLUNz7CTxO&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 
 
 [![https://www.linkedin.com/feed/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
